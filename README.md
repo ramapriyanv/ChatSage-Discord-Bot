@@ -63,4 +63,4 @@ The bot will log in to Discord and start listening for messages. When a message 
 
 ## License
 
-Distribute under the MIT License. See `LICENSE` for more information.
+Distribute under the MIT License. See [LICENSE](./LICENSE) for more information.
